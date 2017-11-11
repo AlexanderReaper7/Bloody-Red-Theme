@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Selected drawer text color -->
+    <style name="DrawerLandingPageItemTextActiveStyle">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@android:color/holo_blue_bright</item>
+    </style>
+    <!-- Unselected drawer text color -->
+    <style name="DrawerLandingPageItemTextInactiveStyle">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#ffaaaaaa</item>
+    </style>
+    <!-- Create new label, Settings and Help and feedback text color -->
+    <style name="DrawerLandingPageItemTextStyle" parent="@*com.google.android.keep:style/DrawerTextStyle">
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:layout_width">0.0dip</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">@*com.google.android.keep:dimen/drawer_item_text_margin</item>
+        <item name="android:layout_marginRight">@*com.google.android.keep:dimen/drawer_item_text_margin</item>
+        <item name="android:layout_weight">1.0</item>
+    </style>
+    <!-- Drawer icon tint color -->
+    <style name="DrawerItemIconStyle">
+        <item name="android:gravity">center</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:layout_width">32.0dip</item>
+        <item name="android:layout_height">32.0dip</item>
+        <item name="android:scaleType">center</item>
+        <item name="android:alpha">0.54</item>
+        <item name="android:tint">#ffffffff</item>
+    </style>
+    <!-- Right side of Take a note... bg, with icons -->
+    <style name="QebButtonStyle">
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:background">@android:color/holo_blue_light</item>
+        <item name="android:layout_width">48.0dip</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:scaleType">center</item>
+    </style>
+    <!-- Left side of Take a note... bg -->
+    <style name="QebContainerStyle">
+        <item name="android:background">@android:color/holo_blue_light</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_marginBottom">@*com.google.android.keep:dimen/qeb_bottom_margin</item>
+        <item name="android:layout_alignParentBottom">true</item>
+    </style>
+</resources>

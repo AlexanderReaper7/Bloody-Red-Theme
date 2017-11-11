@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="key_background_lxx_dark">@android:color/transparent</color>
+    <color name="key_background_pressed_lxx_dark">@android:color/holo_blue_light</color>
+    <color name="key_text_color_lxx_dark">#ffffffff</color>
+    <color name="key_hint_letter_color_lxx_dark">@android:color/holo_blue_bright</color>
+    <color name="key_functional_text_color_lxx_dark">@android:color/holo_blue_bright</color>
+    <color name="highlight_color_lxx_dark">@android:color/holo_blue_bright</color>
+    <color name="auto_correct_color_lxx_dark">#ffffffff</color>
+    <color name="suggested_word_color_lxx_dark">#ffaaaaaa</color>
+    <color name="gesture_trail_color_lxx_dark">@android:color/holo_blue_bright</color>
+    <color name="sliding_key_input_preview_color_lxx_dark">#ffffffff</color> 
+    <color name="text_decorator_add_to_dictionary_indicator_background_color">@android:color/holo_blue_bright</color>
+    <color name="emoji_tab_page_indicator_background_lxx_dark">@android:color/holo_blue_dark</color>
+    <color name="key_text_inactive_color_lxx_dark">@*android:color/ripple_material_dark</color>
+    <color name="gesture_floating_preview_color_lxx_dark">@android:color/holo_blue_light</color>
+	<color name="language_on_spacebar_text_color_lxx_dark">#ffffffff</color>
+</resources>

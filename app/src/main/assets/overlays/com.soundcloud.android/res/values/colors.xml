@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_dark">#ffbbbbbb</color>
+    <color name="raven">#ffffffff</color>
+    <color name="charcoal">#ffffffff</color>
+    <color name="ash">#ffffffff</color>
+    <color name="primary_darker">#181818</color>
+    <color name="mist">#181818</color>
+    <color name="soundcloud_orange">#ffb80000</color>
+    <color name="peach">#ffb80000</color>
+	
+    <color name="toggle_off">#303030</color>
+
+    <color name="black">#ff808080</color>
+	
+    <color name="wave_above">#aa303030</color>
+    <color name="wave_below">#33303030</color>
+    <color name="wave_progress_below">#339b0000</color>
+    <color name="wave_progress_end">#ffb80000</color>
+    <color name="wave_progress_start">#00000000</color>
+
+    <color name="timestamp_primary">#ff9b0000</color>
+    <color name="timestamp_secondary">#ffaaaaaa</color>
+
+    <color name="ripple_material_dark">#80b80000</color>
+    <color name="ripple_material_light">#80900000</color>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Radio, Drawable 4 from Off to On -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24.0"
+    android:viewportHeight="24.0">
+    <path
+        android:fillColor="?android:attr/colorAccent"
+        android:fillAlpha="0.5"
+        android:strokeWidth="1.5" android:strokeColor="?android:attr/colorAccent"
+        android:pathData="M21 12a9 9 0 0 1 -9 9 9 9 0 0 1 -9 -9 9 9 0 0 1 9 -9 9 9 0 0 1 9 9z"/>
+    <path
+        android:pathData="M6.9 9C6.8 9.2 6.7 9.5 6.9 9.6 7 9.9 7.2 10 7.5 10 7.8 10 8 9.9 8.1 9.6 8.2 9.3 8.3 9 8.5 8.9 8.9 8.2 9.5 7.7 10.4 7.3 10.8 7.1 11.1 7.1 11.6 7c0.4 0 0.9 0.1 1.3 0.2 0.1 0 0.2 0.1 0.3 0.1 0.4 0.2 0.8 0 0.9 -0.3 0.2 -0.4 0 -0.8 -0.4 -0.9C13.2 5.9 12.7 5.8 12.2 5.7 10.3 5.7 8.7 6.3 7.5 8 7.4 8.2 7.2 8.4 7.1 8.6 7.1 8.7 7 8.9 6.9 9Z"
+        android:fillColor="?android:attr/colorAccent" />
+    <path
+        android:pathData="M17.1 15c0.1 -0.2 0.2 -0.5 0 -0.6C17 14.1 16.8 14 16.5 14c-0.3 0 -0.5 0.1 -0.6 0.4 -0.1 0.3 -0.2 0.6 -0.4 0.7 -0.4 0.7 -1 1.2 -1.9 1.6 -0.4 0.2 -0.7 0.2 -1.2 0.3 -0.4 0 -0.9 -0.1 -1.3 -0.2 -0.1 0 -0.2 -0.1 -0.3 -0.1 -0.4 -0.2 -0.8 0 -0.9 0.3 -0.2 0.4 0 0.8 0.4 0.9 0.5 0.2 1 0.3 1.5 0.4 1.9 0 3.5 -0.6 4.7 -2.3 0.1 -0.2 0.2 -0.3 0.3 -0.5 0.1 -0.2 0.2 -0.4 0.3 -0.5z"
+        android:fillColor="?android:attr/colorAccent" />
+</vector>

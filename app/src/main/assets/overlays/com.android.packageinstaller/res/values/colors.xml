@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="foreground_material_dark">@android:color/holo_blue_dark</color>
+    <color name="foreground_material_light">@android:color/holo_blue_dark</color>
+    <color name="background_material_dark">@android:color/holo_blue_dark</color>
+    <color name="background_material_light">@android:color/holo_blue_dark</color>
+    <color name="background_floating_material_dark">@android:color/holo_blue_dark</color>
+    <color name="background_floating_material_light">@android:color/holo_blue_dark</color>
+    <color name="primary_material_dark">@android:color/holo_blue_dark</color>
+    <color name="primary_material_light">@android:color/holo_blue_dark</color>
+    <color name="primary_dark_material_dark">@android:color/holo_blue_dark</color>
+    <color name="primary_dark_material_light">@android:color/holo_blue_dark</color>
+    <color name="ripple_material_dark">@*android:color/ripple_material_dark</color>
+    <color name="ripple_material_light">@*android:color/ripple_material_dark</color>
+    <color name="accent_material_light">@android:color/holo_blue_bright</color>
+    <color name="accent_material_dark">@android:color/holo_blue_bright</color>
+    <color name="material_deep_teal_200">@android:color/holo_blue_bright</color>
+    <color name="material_deep_teal_500">@android:color/holo_blue_bright</color>
+</resources>

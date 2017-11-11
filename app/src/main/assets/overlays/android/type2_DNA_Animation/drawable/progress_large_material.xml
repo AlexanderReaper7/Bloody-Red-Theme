@@ -1,0 +1,12 @@
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@*android:drawable/ic_clear_holo_light" >
+    <target
+        android:name="circleGroup"
+        android:animation="@*android:anim/voice_activity_close_enter" />
+    <target
+        android:name="circlePath"
+        android:animation="@*android:anim/voice_layer_enter" />
+    <target
+        android:name="logoPath"
+        android:animation="@*android:anim/voice_layer_exit" />
+</animated-vector>

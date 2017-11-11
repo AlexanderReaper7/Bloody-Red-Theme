@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="notification_action_color_filter">@android:color/holo_blue_bright</color>
+	<color name="notification_story_title_color">#ffaaaaaa</color>
+    <color name="notification_source_color">#ffaaaaaa</color>
+</resources>

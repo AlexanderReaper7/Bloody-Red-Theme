@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <color name="google_blue">#ffb80000</color>
+    <color name="widget_header_normal">#ffb80000</color>
+    <color name="widget_header_pressed">#ffb83030</color>
+    <color name="widget_text_day_first">#ffb80000</color>
+    <color name="background_color">#ff212121</color>
+    <color name="preference_option_selected">#ffb80000</color>
+    <color name="quantum_googblue500">#ffb80000</color>
+    <color name="suggestion_edit_text_chip_background_selected">#ffb80000</color>
+    <color name="accent_blue">#ffb80000</color>
+    <color name="attachment_color_drive_drawing">#ffb80000</color>
+    <color name="attachment_color_image">#ffb80000</color>
+    <color name="google_red">#ffb80000</color>
+    <color name="quantum_googred500">#ffb80000</color>
+
+
+
+    <color name="day_grid_line">#ff777777</color>
+    <color name="line_below_action_bar">#ff777777</color>
+    <color name="selected_day_in_month">#ff777777</color>
+    <color name="separator_above_scroll">#ff777777</color>
+    <color name="widget_week_line">#ff777777</color>
+
+    <color name="drawer_calendar_text_color">#ffffffff</color>
+    <color name="overflow_text_color">#ffffffff</color>
+    <color name="preference_label">#ffffffff</color>
+    <color name="preference_title">#ffffffff</color>
+    <color name="recurrence_edit_event_text">#ffffffff</color>
+    <color name="search_text">#ffffffff</color>
+    <color name="timeline_future_day_header">#ffffffff</color>
+    <color name="usage_hint_foreground">#ffffffff</color>
+    <color name="week_day_header_future">#ffffffff</color>
+    <color name="week_month_label">#ffffffff</color>
+    <color name="widget_text_chip_dark">#ffffffff</color>
+    <color name="widget_text_day_dark">#ffffffff</color>
+    <color name="color_edit_segment_dropdown_label">#ffffffff</color>
+    <color name="color_edit_segment_label">#ffffffff</color>
+
+    <color name="chips_dropdown_text_highlighted">#ffaaaaaa</color>
+    <color name="date_picker_overflow_plus_color">#ffaaaaaa</color>
+    <color name="date_picker_text_normal">#ffaaaaaa</color>
+    <color name="default_dark_grey_text_color">#ffaaaaaa</color>
+    <color name="drawer_account_text_color">#ffaaaaaa</color>
+    <color name="duration_picker_gray">#ffaaaaaa</color>
+    <color name="edit_text_light">#ffaaaaaa</color>
+    <color name="gray_75">#ffaaaaaa</color>
+    <color name="info_attribution_text_dark_grey">#ffaaaaaa</color>
+    <color name="info_segment_text_dark_grey">#ffaaaaaa</color>
+    <color name="material_grey_600">#ffaaaaaa</color>
+    <color name="month_day_of_week_label">#ffaaaaaa</color>
+    <color name="month_view_day_text">#ffaaaaaa</color>
+    <color name="month_view_more_events_color">#ffaaaaaa</color>
+    <color name="month_view_past_day_text">#ffaaaaaa</color>
+    <color name="no_color_found_color">#ffaaaaaa</color>
+    <color name="no_events_text_color">#ffaaaaaa</color>
+    <color name="quantum_grey600">#ffaaaaaa</color>
+    <color name="suggestion_description_color">#ffaaaaaa</color>
+    <color name="text_color_grey">#ffaaaaaa</color>
+    <color name="tile_headline_text_color">#ffaaaaaa</color>
+    <color name="tile_secondary_line">#ffaaaaaa</color>
+    <color name="timegrid_hour_label">#ffaaaaaa</color>
+    <color name="timeline_week_header_text_color">#ffaaaaaa</color>
+    <color name="unsupported_smart_mail_label_color">#ffaaaaaa</color>
+    <color name="week_hour_color">#ffaaaaaa</color>
+    <color name="week_in_year_label">#ffaaaaaa</color>
+    <color name="widget_text_day_light">#ffaaaaaa</color>
+
+
+    <color name="attachment_color_chip_dark_text">#ffffffff</color>
+    <color name="chips_dropdown_text_default">#ffffffff</color>
+    <color name="day_with_events_in_month">#ffffffff</color>
+    <color name="drawer_button_text_color_normal">#ffffffff</color>
+    <color name="edit_event_text">#ffffffff</color>
+    <color name="edit_text_dark">#ffffffff</color>
+    <color name="groove_store_title_color">#ffffffff</color>
+    <color name="info_segment_text_dark">#ffffffff</color>
+    <color name="material_grey_900">#ffffffff</color>
+    <color name="month_view_future_day_text">#ffffffff</color>
+    <color name="quantum_grey900">#ffffffff</color>
+    <color name="quickcreate_usage_hint_contact_accepted_hint_text">#ffffffff</color>
+    <color name="reminders_bundle_title_text_color">#ffffffff</color>
+    <color name="suggestion_edit_text_chip_text">#ffffffff</color>
+    <color name="suggestion_title_color">#ffffffff</color>
+    <color name="text_color_black">#ffffffff</color>
+    <color name="tile_primary_line">#ffffffff</color>
+    <color name="widgetmonth_day_number">#ffffffff</color>
+
+    <color name="oobe_welcome_background">#ff212121</color>
+    <color name="quick_create_chip_background">#ff212121</color>
+    <color name="quickcreate_title">#ff212121</color>
+    <color name="quickcreate_usage_hint_contact_accepted">#ff212121</color>
+    <color name="timeline_week_header_bg_color">#ff212121</color>
+    <color name="timely_background_color">#ff212121</color>
+    <color name="background_floating_material_light">#ff212121</color>
+    <color name="bright_foreground_material_dark">#ff212121</color>
+    <color name="foreground_material_dark">#ff212121</color>
+
+
+    <color name="chip_background">#ff303030</color>
+
+    <color name="edit_event_background_color">#ff303030</color>
+
+</resources>

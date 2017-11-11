@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="letter_tile_colors">
+        <item>@android:color/holo_blue_bright</item>
+        <item>@android:color/holo_blue_bright</item>
+        <item>@android:color/holo_blue_bright</item>
+        <item>@android:color/holo_blue_bright</item>
+        <item>@android:color/holo_blue_bright</item>
+        <item>@android:color/holo_blue_bright</item>
+        <item>@android:color/holo_blue_bright</item>
+        <item>@android:color/holo_blue_bright</item>
+        <item>@android:color/holo_blue_bright</item>
+        <item>@android:color/holo_blue_bright</item>
+        <item>@android:color/holo_blue_bright</item>
+        <item>@android:color/holo_blue_bright</item>
+        <item>@android:color/holo_blue_bright</item>
+        <item>@android:color/holo_blue_bright</item>
+    </array>
+    <array name="letter_tile_colors_dark">
+        <item>@android:color/holo_green_dark</item>
+        <item>@android:color/holo_green_dark</item>
+        <item>@android:color/holo_green_dark</item>
+        <item>@android:color/holo_green_dark</item>
+        <item>@android:color/holo_green_dark</item>
+        <item>@android:color/holo_green_dark</item>
+        <item>@android:color/holo_green_dark</item>
+        <item>@android:color/holo_green_dark</item>
+        <item>@android:color/holo_green_dark</item>
+        <item>@android:color/holo_green_dark</item>
+        <item>@android:color/holo_green_dark</item>
+        <item>@android:color/holo_green_dark</item>
+        <item>@android:color/holo_green_dark</item>
+        <item>@android:color/holo_green_dark</item>
+    </array>
+</resources>

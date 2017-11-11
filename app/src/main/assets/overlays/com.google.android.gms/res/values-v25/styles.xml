@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="common.Theme.Base.GoogleSettings" parent="@*com.google.android.gms:style/Theme.AppCompat">
+        <item name="android:colorPrimary">@android:color/holo_blue_dark</item>
+        <item name="android:colorPrimaryDark">@android:color/holo_red_dark</item>
+        <item name="android:colorAccent">@android:color/holo_blue_bright</item>
+        <item name="android:navigationBarColor">@android:color/holo_blue_dark</item>
+    </style>
+    <style name="common.Theme.Base.NoAppCompat.Light.Dialog" parent="@android:style/Theme.Material.Dialog">
+        <item name="android:colorPrimary">@android:color/holo_blue_dark</item>
+        <item name="android:colorPrimaryDark">@android:color/holo_red_dark</item>
+        <item name="android:colorAccent">@android:color/holo_blue_bright</item>
+        <item name="android:navigationBarColor">@android:color/holo_blue_dark</item>
+    </style>
+    <style name="common.Theme.Base.NoAppCompat.Light.Dialog.MinWidth" parent="@android:style/Theme.Material.Dialog.MinWidth">
+        <item name="android:colorPrimary">@android:color/holo_blue_dark</item>
+        <item name="android:colorPrimaryDark">@android:color/holo_red_dark</item>
+        <item name="android:colorAccent">@android:color/holo_blue_bright</item>
+        <item name="android:navigationBarColor">@android:color/holo_blue_dark</item>
+    </style>
+    <style name="common.Theme.GoogleSettings.Dialog" parent="@*com.google.android.gms:style/Theme.AppCompat.Dialog">
+        <item name="android:colorPrimary">@android:color/holo_blue_dark</item>
+        <item name="android:colorPrimaryDark">@android:color/holo_red_dark</item>
+        <item name="android:colorAccent">@android:color/holo_blue_bright</item>
+        <item name="android:navigationBarColor">@android:color/holo_blue_dark</item>
+    </style>
+    <style name="TrustAgentSettingsTheme" parent="@*com.google.android.gms:style/Theme.AppCompat">
+        <item name="android:colorPrimary">@android:color/holo_blue_dark</item>
+        <item name="android:colorPrimaryDark">@android:color/holo_red_dark</item>
+        <item name="android:colorAccent">@android:color/holo_blue_bright</item>
+        <item name="android:navigationBarColor">@android:color/holo_blue_dark</item>
+        <item name="@*com.google.android.gms:preferenceTheme">@*com.google.android.gms:style/PreferenceThemeOverlay.v14.Material</item>
+    </style>
+</resources>

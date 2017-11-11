@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="TextAppearance.AppCompat.Notification" parent="@android:style/TextAppearance.Material.Notification" />
+    <style name="TextAppearance.AppCompat.Notification.Title" parent="@android:style/TextAppearance.Material.Notification.Title" />
+    <style name="TextAppearance.AppCompat.Notification.Info" parent="@android:style/TextAppearance.Material.Notification.Info" />
+    <style name="TextAppearance.AppCompat.Notification.Info.Media" parent="@*com.google.android.deskclock:style/TextAppearance.AppCompat.Notification.Info">
+        <item name="android:textColor">#ff757575</item>
+    </style>
+    <style name="TextAppearance.AppCompat.Notification.Media" parent="@*com.google.android.deskclock:style/TextAppearance.AppCompat.Notification">
+        <item name="android:textColor">#ff757575</item>
+    </style>
+    <style name="TextAppearance.AppCompat.Notification.Time" parent="@android:style/TextAppearance.Material.Notification.Time" />
+    <style name="TextAppearance.AppCompat.Notification.Time.Media" parent="@*com.google.android.deskclock:style/TextAppearance.AppCompat.Notification.Time">
+        <item name="android:textColor">#ff757575</item>
+    </style>
+    <style name="TextAppearance.AppCompat.Notification.Title.Media" parent="@*com.google.android.deskclock:style/TextAppearance.AppCompat.Notification.Title">
+        <item name="android:textColor">#ff757575</item>
+    </style>
+</resources>

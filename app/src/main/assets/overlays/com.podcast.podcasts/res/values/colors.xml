@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <color name="holo_blue_dark">#b2b80000</color>
+    <color name="holo_blue_light">#ffb80000</color>
+    <color name="tab_normal_text_color">#b2b80000</color>
+    <color name="tab_selected_text_color">#ffb80000</color>
+
+    <color name="dark_theme_window_background">#ff212121</color>
+    <color name="material_grey_850">#ff212121</color>
+    <color name="overlay_dark">#ff212121</color>
+    <color name="primary_dark">#ff212121</color>
+
+    <color name="ripple_material_dark">#80b80000</color>
+    <color name="ripple_material_light">#80900000</color>
+</resources>

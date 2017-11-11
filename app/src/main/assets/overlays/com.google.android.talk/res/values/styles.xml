@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.EmeraldSea.Launcher" parent="@android:style/Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@*com.google.android.talk:drawable/quantum_launchscreen_hangouts</item>
+        <item name="android:colorPrimaryDark">@android:color/holo_blue_dark</item>
+    </style>
+    <style name="Theme.AlertDialog" parent="@android:style/Theme.Material.Dialog.Alert" />
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="PeopleTheme" parent="@*android:style/Theme.Material">
+        <item name="android:colorPrimary">@android:color/holo_blue_bright</item>
+        <item name="android:colorPrimaryDark">@android:color/holo_green_dark</item>
+        <item name="android:colorAccent">@android:color/holo_blue_bright</item>
+        <item name="android:navigationBarColor">@android:color/holo_blue_dark</item>
+    </style>
+    <style name="BackgroundOnlyTheme" parent="@android:style/Theme.Material" />
+    <style name="Theme.CallSubjectDialogTheme" parent="@android:style/Theme.Material.Dialog" />
+    <style name="NonPhoneDialogTheme" parent="@android:style/Theme.Material.Dialog" />
+    <style name="SelectableItem" parent="@android:style/Theme.Material">
+        <item name="android:background">?android:selectableItemBackground</item>
+    </style>
+    <style name="ContactsAlertDialogThemeAppCompat" parent="@*android:style/Theme.Material.Dialog.MinWidth">
+        <item name="android:textColorPrimary">@android:color/white</item>
+    </style>
+    <style name="ContactsAlertDialogTheme" parent="@android:style/Theme.Material.Dialog" />
+    <style name="EmptyStateTextStyle">
+        <item name="android:textSize">18.0sp</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:alpha">0.54</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+    <style name="ConfirmAddDetailDialogTheme" parent="@android:style/Theme.Material.Dialog.MinWidth">
+        <item name="android:windowCloseOnTouchOutside">true</item>
+    </style>
+    <style name="Platform.AppCompat" parent="@*android:style/Theme.Material">
+        <item name="android:navigationBarColor">@android:color/holo_blue_dark</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="Platform.AppCompat.Light" parent="@*android:style/Theme.Material.Light">
+        <item name="android:navigationBarColor">@android:color/holo_blue_dark</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+</resources>

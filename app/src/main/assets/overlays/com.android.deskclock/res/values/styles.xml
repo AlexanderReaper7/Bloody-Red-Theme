@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="DeskClockParentTheme" parent="@android:style/Theme.Material">
+        <item name="android:textColorPrimary">@android:color/white</item>
+        <item name="android:windowBackground">@android:color/holo_blue_dark</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:colorControlActivated">@android:color/holo_blue_bright</item>
+        <item name="android:colorPrimary">@android:color/holo_blue_bright</item>
+        <item name="android:colorPrimaryDark">@android:color/holo_green_dark</item>
+        <item name="android:navigationBarColor">@android:color/holo_blue_dark</item>
+    </style>
+    <style name="TimePickerTheme" parent="@android:style/Theme.Material.Dialog" />
+    <style name="TimePickerStyle" parent="@android:style/Widget.Material.TimePicker" />
+    <style name="DeskClockDropDownListView" parent="@android:style/Widget.Material.ListView.DropDown" />
+    <style name="PopupMenu" parent="@android:style/Theme.Material" />
+    <style name="CitiesTheme" parent="@android:style/Theme.Material">
+        <item name="android:textColorPrimary">@android:color/white</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+</resources>

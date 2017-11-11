@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Radio, Drawable 2 from Off to On -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24.0"
+    android:viewportHeight="24.0">
+    <path
+        android:fillColor="#80757575"
+        android:strokeWidth="1.5" android:strokeColor="#ff757575"
+        android:pathData="M21 12a9 9 0 0 1 -9 9 9 9 0 0 1 -9 -9 9 9 0 0 1 9 -9 9 9 0 0 1 9 9z"/>
+    <path
+        android:pathData="M10.5 6.3C10.3 6.4 10 6.5 10 6.7 9.9 7 10 7.2 10.2 7.4c0.2 0.2 0.4 0.3 0.7 0.1 0.3 -0.1 0.6 -0.2 0.8 -0.2 0.8 -0.2 1.6 -0.1 2.5 0.2 0.4 0.2 0.7 0.4 1 0.7 0.3 0.3 0.6 0.7 0.8 1.1 0 0.1 0.1 0.2 0.1 0.3 0.2 0.4 0.5 0.5 0.8 0.4C17.3 9.8 17.4 9.5 17.3 9.1 17.1 8.6 16.8 8.2 16.5 7.8 15.2 6.4 13.6 5.8 11.6 6.1 11.4 6.2 11.2 6.2 11 6.2c-0.1 0 -0.3 0.1 -0.5 0.1z"
+        android:fillColor="#ff757575" />
+    <path
+        android:pathData="M13.5 17.7c0.2 -0.1 0.5 -0.2 0.5 -0.4 0.1 -0.3 0 -0.4 -0.2 -0.7 -0.2 -0.2 -0.4 -0.3 -0.7 -0.1 -0.3 0.1 -0.6 0.2 -0.8 0.2 -0.8 0.2 -1.6 0.1 -2.5 -0.2C9.4 16.3 9.1 16.1 8.8 15.8 8.5 15.5 8.2 15.1 8 14.7 8 14.6 7.9 14.5 7.9 14.4 7.7 14 7.4 13.9 7.1 14c-0.4 0.2 -0.5 0.5 -0.4 0.9 0.2 0.5 0.5 0.9 0.8 1.3 1.3 1.4 2.9 2 4.9 1.7 0.2 -0.1 0.4 -0.1 0.6 -0.1 0.1 0 0.3 -0.1 0.5 -0.1z"
+        android:fillColor="#ff757575" />
+</vector>

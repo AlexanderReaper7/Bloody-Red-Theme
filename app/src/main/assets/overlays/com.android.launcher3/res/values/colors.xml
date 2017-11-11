@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="page_indicator_dot_color">@android:color/holo_blue_bright</color>
+    <color name="quantum_panel_text_color">#ffffffff</color>
+    <color name="quantum_panel_bg_color">@android:color/holo_blue_light</color>
+    <color name="outline_color">@android:color/holo_blue_bright</color>
+    <color name="all_apps_divider_color">@android:color/holo_blue_bright</color>
+    <color name="all_apps_caret_color">@android:color/holo_blue_bright</color>
+    <color name="all_apps_container_color">@android:color/holo_blue_light</color>
+    <color name="spring_loaded_highlighted_panel_border_color">@android:color/holo_blue_bright</color>
+    <color name="widgets_view_section_text_color">#ffffffff</color>
+    <color name="widgets_view_item_text_color">#ffaaaaaa</color>
+    <color name="fallback_secondary_color">@android:color/holo_blue_light</color>
+    <color name="accent">@android:color/holo_blue_bright</color>
+    <color name="primary_color">@android:color/holo_blue_bright</color>
+    <color name="primary_dark_color">@android:color/holo_green_dark</color>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent_material_dark">#ffb80000</color>
+    <color name="button_material_dark">#ffb80000</color>
+    <color name="highlighted_text_material_dark">#66b80000</color>
+    <color name="lb_default_brand_color">#ffb80000</color>
+    <color name="lb_preference_decor_list_background">#ff303030</color>
+    <color name="orange100">#ffb80000</color>
+    <color name="orange200">#ffb80000</color>
+    <color name="orange300">#ffb80000</color>
+    <color name="orange400">#ffb80000</color>
+    <color name="orange50">#ffb80000</color>
+    <color name="orange500">#ffb80000</color>
+    <color name="orange500transparent">#b4b80000</color>
+    <color name="orange600">#ffb80000</color>
+    <color name="orange700">#ffb80000</color>
+    <color name="orange800">#ffb80000</color>
+    <color name="orange900">#ffb80000</color>
+    <color name="preference_fallback_accent_color">#ffb80000</color>
+</resources>

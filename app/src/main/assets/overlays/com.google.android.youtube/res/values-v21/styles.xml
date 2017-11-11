@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Platform.AppCompat.Light" parent="@android:style/Theme.Material">
+        <item name="android:navigationBarColor">@android:color/holo_blue_dark</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+	    <style name="Platform.V21.AppCompat.Light" parent="@*android:style/Theme.Material.NoActionBar">
+        <item name="android:navigationBarColor">@android:color/holo_blue_dark</item>
+        <item name="android:textColorPrimary">@android:color/white</item>
+        <item name="android:colorBackground">@android:color/holo_blue_dark</item>
+    </style>
+    <style name="GvrDialogTheme" parent="@android:style/Theme.Material.Dialog">
+        <item name="android:colorAccent">@android:color/holo_blue_bright</item>
+        <item name="android:colorBackground">@android:color/holo_blue_dark</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Display4" parent="@android:style/TextAppearance.Material.Display4">
+        <item name="*com.google.android.youtube:aspectRatio">@*com.google.android.youtube:fraction/conversation_aspect_ratio_16_9</item>
+        <item name="*com.google.android.youtube:corners">16.0dip</item>
+        <item name="*com.google.android.youtube:sharpCorners">4.0dip</item>
+    </style>
+    <style name="Theme.YouTube.Light.Dialog" parent="@*com.google.android.youtube:style/Theme.AppCompat.Dialog">
+        <item name="android:colorPrimary">@android:color/holo_blue_bright</item>
+        <item name="android:colorAccent">@android:color/holo_blue_bright</item>
+        <item name="android:background">@android:color/holo_blue_dark</item>
+    </style>
+    <style name="Theme.YouTube.Light" parent="@*com.google.android.youtube:style/Base.Theme.YouTube.Light">
+        <item name="android:windowContentTransitions">true</item>
+        <item name="android:windowSharedElementEnterTransition">@android:transition/move</item>
+        <item name="android:windowSharedElementExitTransition">@android:transition/move</item>
+        <item name="android:windowAllowReturnTransitionOverlap">true</item>
+        <item name="android:windowAllowEnterTransitionOverlap">true</item>
+        <item name="android:textColorPrimary">@android:color/white</item>
+    </style>
+
+</resources>

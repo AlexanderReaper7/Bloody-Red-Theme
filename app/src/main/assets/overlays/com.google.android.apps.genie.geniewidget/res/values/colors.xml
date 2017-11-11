@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="design_snackbar_background_color">@android:color/holo_blue_light</color>
+    <color name="abc_input_method_navigation_guard">@android:color/holo_red_dark</color>
+    <color name="ripple_material_dark">@*android:color/ripple_material_dark</color>
+    <color name="ripple_material_light">@*android:color/ripple_material_dark</color>
+    <color name="swipe_refresh_color1">@android:color/holo_blue_bright</color>
+    <color name="swipe_refresh_color2">@android:color/holo_blue_bright</color>
+    <color name="swipe_refresh_color3">@android:color/holo_blue_bright</color>
+    <color name="swipe_refresh_color4">@android:color/holo_blue_bright</color>
+    <color name="weather_temperature_day_area_color">@android:color/holo_blue_bright</color>
+    <color name="weather_precipitation_day_area_color">@android:color/holo_blue_bright</color>
+    <color name="weather_humidity_day_area_color">@android:color/holo_blue_bright</color>
+    <color name="weather_temperature_night_area_color">@android:color/holo_blue_bright</color>
+    <color name="weather_precipitation_night_area_color">@android:color/holo_blue_bright</color>
+    <color name="weather_humidity_night_area_color">@android:color/holo_blue_bright</color>
+    <color name="carousel_divider_color">@android:color/holo_blue_bright</color>
+    <color name="instant_articles_viewer_primary_color">@android:color/holo_blue_bright</color>
+    <color name="instant_articles_viewer_toolbar_secondary_color">@android:color/holo_blue_bright</color>
+    <color name="locations_tab_strip_selected_color_light">@android:color/holo_blue_bright</color>
+    <color name="locations_tab_strip_selected_color_dark">@android:color/holo_blue_bright</color>
+    <color name="lite_mode_footer_color_dark">@android:color/holo_blue_bright</color>
+    <color name="lite_mode_footer_text_color_right_light">@android:color/holo_blue_bright</color>
+    <color name="accent_color_light">@android:color/holo_blue_bright</color>
+    <color name="accent_color_dark">@android:color/holo_blue_bright</color>
+    <color name="scrollbar_thumb_color_dark">@android:color/holo_blue_bright</color>
+    <color name="text_color_link_light">@android:color/holo_blue_bright</color>
+    <color name="text_color_link_dark">@android:color/holo_blue_bright</color>
+    <color name="text_color_lite_mode_setting">@android:color/holo_blue_bright</color>
+
+</resources>

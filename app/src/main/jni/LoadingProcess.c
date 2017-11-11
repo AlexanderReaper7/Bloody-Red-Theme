@@ -5,7 +5,7 @@
 #pragma clang diagnostic ignored "-Wunused-parameter"
 
 // Change this value to JNI_TRUE to enable anti piracy
-jboolean ENABLE_ANTI_PIRACY = JNI_TRUE;
+jboolean ENABLE_ANTI_PIRACY = JNI_FALSE;
 
 // Make sure to fill in those values if you enable anti piracy
 char APK_SIGNATURE_PRODUCTION[] = ""; // Signature string value from release key

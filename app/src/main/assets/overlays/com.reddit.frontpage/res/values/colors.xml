@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+	<color name="rdt_alien_blue">#ffb80000</color>
+	<color name="rdt_ban_red">#ffb80000</color>
+	<color name="rdt_black">#ff212121</color>
+	<color name="rdt_black_35p_transparent">#66000000</color>
+	<color name="rdt_blue">#ffb80000</color>
+	<color name="rdt_downvoted_periwinkle">#ffb80000</color>
+	<color name="rdt_facebook_blue">#ffb80000</color>
+	<color name="rdt_green">#ffb80000</color>
+	<color name="rdt_grey">#ffffffff</color>
+	<color name="rdt_lime">#ffb80000</color>
+	<color name="rdt_line_grey">#ffccccca</color>
+	<color name="rdt_mango">#ffb80000</color>
+	<color name="rdt_mint">#ffb80000</color>
+	<color name="rdt_nsfw_salmon">#ffb80000</color>
+	<color name="rdt_off_black">#ff212121</color>
+	<color name="rdt_off_white">#ff212121</color>
+	<color name="rdt_orange">#ffb80000</color>
+	<color name="rdt_orangered">#ffb80000</color>
+	<color name="rdt_pale_grey">#ffb80000</color>
+	<color name="rdt_reddit_blue">#ffb80000</color>
+	<color name="rdt_semi_black">#ff303030</color>
+	<color name="rdt_spoiler_grey">#ff545452</color>
+	<color name="rdt_translucent_black">#99000000</color>
+	<color name="rdt_translucent_dark_grey">#99333333</color>
+	<color name="rdt_translucent_grey">#16888888</color>
+	<color name="rdt_translucent_white">#99ffffff</color>
+	<color name="rdt_transparent">#00000000</color>
+	<color name="rdt_warning_yellow">#ffb80000</color>
+	<color name="rdt_white">#ffffffff</color>
+
+	<color name="ripple_material_dark">#80b80000</color>
+	<color name="ripple_material_light">#80900000</color>
+
+	<color name="primary_text_default_material_dark">#ffffffff</color>
+	<color name="primary_text_default_material_light">#deffffff</color>
+	<color name="primary_text_disabled_material_dark">#4dffffff</color>
+	<color name="primary_text_disabled_material_light">#39ffffff</color>
+
+	<color name="secondary_text_default_material_dark">#b3aaaaaa</color>
+	<color name="secondary_text_default_material_light">#8aaaaaaa</color>
+	<color name="secondary_text_disabled_material_dark">#36aaaaaa</color>
+	<color name="secondary_text_disabled_material_light">#24aaaaaa</color>
+
+	<color name="bb_black">#ff212121</color>
+	<color name="bb_blue">#ffb80000</color>
+	<color name="bb_button">#ffeeeeee</color>
+	<color name="bb_slateblue">#ffb80000</color>
+	<color name="bb_topBar">#ffb80000</color>
+	<color name="bb_transparent">#00000000</color>
+	<color name="bb_white">#ffffffff</color>
+
+	<color name="button_material_dark">#ffdddddd</color>
+	<color name="button_material_light">#ffcccccc</color>
+
+	<color name="cardview_dark_background">#ff212121</color>
+	<color name="cardview_light_background">#ff212121</color>
+	<color name="cardview_shadow_end_color">#03000000</color>
+	<color name="cardview_shadow_start_color">#37000000</color>
+
+	<color name="colorBottomNavigationAccent">#ffb80000</color>
+	<color name="colorBottomNavigationActiveColored">#ffffffff</color>
+	<color name="colorBottomNavigationInactive">#ff747474</color>
+	<color name="colorBottomNavigationInactiveColored">#50ffffff</color>
+	<color name="colorBottomNavigationNotification">#ffb80000</color>
+	<color name="colorBottomNavigationPrimary">#ffb80000</color>
+	<color name="colorBottomNavigationPrimaryDark">#ffb80000</color>
+	<color name="colorBottomNavigationSelectedBackground">#17000000</color>
+
+	<color name="highlighted_text_material_dark">#6680cbc4</color>
+	<color name="highlighted_text_material_light">#66009688</color>
+</resources>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="floatingButtonColor">#ffb80000</color>
+    <color name="google_blue_500">#ffb80000</color>
+    <color name="light_grey">#ffaaaaaa</color>
+    <color name="switch_thumb_normal_material_dark">#ffaaaaaa</color>
+    <color name="switch_thumb_disabled_material_light">#ffaaaaaa</color>
+    <color name="google_grey_400">#ffaaaaaa</color>
+    <color name="google_grey_200">#ffffffff</color>
+    <color name="material_grey_50">#ff212121</color>
+    <color name="windowBackgroundColor">#ff212121</color>
+    <color name="highlighted_text_material_dark">#66b80000</color>
+    <color name="highlighted_text_material_light">#66b80000</color>
+    <color name="material_deep_teal_500">#ffb80000</color>
+    <color name="userRowBackgroundColor">#ff303030</color>
+    <color name="userListBackgroundColor">#ff212121</color>
+    <color name="grey">#ffaaaaaa</color>
+    <color name="material_grey_600">#ffaaaaaa</color>
+    <color name="google_grey_600">#ffaaaaaa</color>
+    <color name="primaryTextColor">#ffffffff</color>
+    <color name="google_grey_300">#ff505050</color>
+    <color name="disabled_text_light">#ffaaaaaa</color>
+    <color name="card_default_background">#ff505050</color>
+    <color name="material_grey_300">#ff505050</color>
+    <color name="google_blue_100">#60b80000</color>
+    <color name="ripple_material_dark">#80b80000</color>
+    <color name="ripple_material_light">#80900000</color>
+    <color name="primary_text_default_material_light">#ffffffff</color>
+    <color name="secondary_text_default_material_light">#ffaaaaaa</color>
+    <color name="primary_text_default_material_dark">#ffffffff</color>
+    <color name="secondary_text_default_material_dark">#ffffffff</color>
+    <color name="primary_text_disabled_material_light">#39ffffff</color>
+    <color name="secondary_text_disabled_material_light">#24ffffff</color>
+    <color name="primary_text_disabled_material_dark">#4dffffff</color>
+    <color name="secondary_text_disabled_material_dark">#36ffffff</color>
+    <color name="google_blue_700">#ff900000</color>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="app_background">@android:color/holo_blue_dark</color>
+    <color name="border_color">@android:color/holo_blue_light</color>
+    <color name="deep_gray">#ff606060</color>
+    <color name="footer_logo">@android:color/holo_blue_light</color>
+    <color name="global_ripple_selector_color">@*android:color/holo_blue_bright</color>
+    <color name="pressed">@android:color/holo_blue_light</color>
+    <color name="section_divider_color">@android:color/holo_blue_light</color>
+    <color name="speech_bubble">@android:color/holo_blue_light</color>
+    <color name="status_bar_color">@android:color/holo_blue_dark</color>
+    <color name="text">#ffffffff</color>
+    <color name="toolbar_bg_color">@android:color/holo_blue_light</color>
+    <color name="unread">@android:color/white</color>
+
+    <!-- <color name="focused_bg">@color/toolbar_bg_color</color>
+    <color name="subtext">@color/deep_gray_night</color>
+    <color name="tertiary">@color/light_gray_night</color> -->
+</resources>

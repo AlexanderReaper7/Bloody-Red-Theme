@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Platform.AppCompat.Light" parent="@android:style/Theme.Material.NoActionBar" />
+    <style name="AppTheme.ListView" parent="@android:style/Widget.ListView">
+        <item name="android:background">@android:color/holo_blue_dark</item>
+        <item name="android:divider">@android:color/holo_blue_bright</item>
+        <item name="android:dividerHeight">1.0dip</item>
+    </style>
+    <style name="AppTheme.ListView.Header" parent="@android:style/TextAppearance.Widget.EditText">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColorHint">#ffaaaaaa</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:background">@android:color/holo_blue_light</item>
+        <item name="android:paddingLeft">18.0dip</item>
+        <item name="android:paddingRight">18.0dip</item>
+        <item name="android:layout_height">56.0dip</item>
+        <item name="android:dividerHeight">1.0dip</item>
+    </style>
+    <style name="AppTheme.Button.Select" parent="@android:style/TextAppearance.Widget.TextView">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:gravity">start|center</item>
+        <item name="android:background">@android:color/holo_blue_bright</item>
+        <item name="android:paddingLeft">18.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">56.0dip</item>
+    </style>
+</resources>

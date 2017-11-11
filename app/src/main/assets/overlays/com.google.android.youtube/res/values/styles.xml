@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Platform.AppCompat.Light" parent="@android:style/Theme.Material">
+        <item name="android:navigationBarColor">@android:color/holo_blue_dark</item>
+    </style>
+    <style name="Theme.YouTube.Settings" parent="@*com.google.android.youtube:style/Theme.YouTube.Light.NoActionBar">
+        <item name="colorPrimary">@android:color/holo_blue_bright</item>
+        <item name="colorPrimaryDark">@android:color/holo_green_dark</item>
+        <item name="colorAccent">@android:color/holo_blue_bright</item>
+        <item name="colorControlActivated">@android:color/holo_blue_light</item>
+        <item name="android:navigationBarColor">@android:color/holo_blue_dark</item>
+        <item name="android:windowBackground">@android:color/holo_blue_dark</item>
+        <item name="android:textColorPrimary">@android:color/white</item>
+        <item name="android:textColorSecondary">#ffaaaaaa</item>
+    </style>
+    <style name="SpinnerItem" parent="@*com.google.android.youtube:style/Widget.YouTube.TextView">
+        <item name="android:textSize">18.0sp</item>
+        <item name="android:textColor">@android:color/holo_blue_bright</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:paddingLeft">12.0dip</item>
+        <item name="android:minHeight">48.0dip</item>
+        <item name="android:maxLines">1</item>
+    </style>
+    <style name="SpinnerItem.Dropdown" parent="@*com.google.android.youtube:style/SpinnerItem">
+        <item name="android:textColor">@android:color/holo_blue_bright</item>
+    </style>
+    <style name="Theme.YouTube.Home" parent="@*com.google.android.youtube:style/Theme.YouTube.Light.NoActionBar">
+        <item name="android:textColorPrimary">@android:color/white</item>
+    </style>
+    <style name="Theme.YouTube.Light.Dialog" parent="@*com.google.android.youtube:style/Theme.AppCompat.Dialog">
+        <item name="android:colorAccent">@android:color/holo_blue_bright</item>
+        <item name="android:background">@android:color/holo_blue_dark</item>
+    </style>
+    <style name="Theme.MediaRouter.Light" parent="@*com.google.android.youtube:style/Theme.MediaRouter">
+        <!-- <item name="*com.google.android.youtube:MediaRouteControllerWindowBackground">@*com.google.android.youtube:drawable/mr_dialog_material_background_dark</item> -->
+        <item name="*com.google.android.youtube:mediaRouteAudioTrackDrawable">@*com.google.android.youtube:drawable/mr_vol_type_audiotrack_dark</item>
+        <item name="*com.google.android.youtube:mediaRouteButtonStyle">@*com.google.android.youtube:style/Widget.MediaRouter.Light.MediaRouteButton</item>
+        <!-- <item name="*com.google.android.youtube:mediaRouteChooserPrimaryTextStyle">@*com.google.android.youtube:style/Widget.MediaRouter.ChooserText.Primary.Dark</item> -->
+        <!-- <item name="*com.google.android.youtube:mediaRouteChooserSecondaryTextStyle">@*com.google.android.youtube:style/Widget.MediaRouter.ChooserText.Secondary.Dark</item> -->
+        <item name="*com.google.android.youtube:mediaRouteCloseDrawable">@*com.google.android.youtube:drawable/mr_dialog_close_dark</item>
+        <!-- <item name="*com.google.android.youtube:mediaRouteControllerPrimaryTextStyle">@*com.google.android.youtube:style/Widget.MediaRouter.ControllerText.Primary.Dark</item>
+        <item name="*com.google.android.youtube:mediaRouteControllerSecondaryTextStyle">@*com.google.android.youtube:style/Widget.MediaRouter.ControllerText.Secondary.Dark</item>
+        <item name="*com.google.android.youtube:mediaRouteControllerTitleTextStyle">@*com.google.android.youtube:style/Widget.MediaRouter.ControllerText.Title.Dark</item> -->
+        <item name="*com.google.android.youtube:mediaRouteDefaultIconDrawable">@*com.google.android.youtube:drawable/ic_mr_button_grey</item>
+        <item name="*com.google.android.youtube:mediaRoutePauseDrawable">@*com.google.android.youtube:drawable/mr_media_pause_dark</item>
+        <item name="*com.google.android.youtube:mediaRoutePlayDrawable">@*com.google.android.youtube:drawable/mr_media_play_dark</item>
+        <item name="*com.google.android.youtube:mediaRouteSpeakerGroupIconDrawable">@*com.google.android.youtube:drawable/ic_vol_type_speaker_group_dark</item>
+        <item name="*com.google.android.youtube:mediaRouteSpeakerIconDrawable">@*com.google.android.youtube:drawable/ic_vol_type_speaker_dark</item>
+        <item name="*com.google.android.youtube:mediaRouteTvIconDrawable">@*com.google.android.youtube:drawable/ic_vol_type_tv_dark</item>
+    </style>
+    <style name="Theme.MediaRouter.LightControlPanel" parent="@*com.google.android.youtube:style/Theme.MediaRouter">
+        <item name="*com.google.android.youtube:mediaRouteAudioTrackDrawable">@*com.google.android.youtube:drawable/mr_vol_type_audiotrack_dark</item>
+        <!-- <item name="*com.google.android.youtube:mediaRouteControllerPrimaryTextStyle">@*com.google.android.youtube:style/Widget.MediaRouter.ControllerText.Primary.Dark</item>
+        <item name="*com.google.android.youtube:mediaRouteControllerSecondaryTextStyle">@*com.google.android.youtube:style/Widget.MediaRouter.ControllerText.Secondary.Dark</item> -->
+        <item name="*com.google.android.youtube:mediaRoutePauseDrawable">@*com.google.android.youtube:drawable/mr_media_pause_dark</item>
+        <item name="*com.google.android.youtube:mediaRoutePlayDrawable">@*com.google.android.youtube:drawable/mr_media_play_dark</item>
+    </style>
+    <style name="Widget.YouTube.Control" parent="@*com.google.android.youtube:style/Widget.YouTube">
+        <item name="*com.google.android.youtube:colorControlSelected">@*com.google.android.youtube:color/color_brand_primary_alternate</item>
+        <item name="*com.google.android.youtube:colorControlNormal">#949496</item>
+        <item name="*com.google.android.youtube:colorControlActivated">#a9a9aa</item>
+    </style>
+    <style name="TextAppearance.YouTube.Body1" parent="@*com.google.android.youtube:style/TextAppearance.AppCompat.Body1">
+		<item name="*com.google.android.youtube:hyperlinksClickable">true</item>
+	</style>
+</resources>

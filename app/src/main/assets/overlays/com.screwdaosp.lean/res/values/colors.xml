@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="abc_input_method_navigation_guard">@android:color/holo_blue_dark</color>
+    <color name="chglib_background_default_divider_color">#ffdadadc</color>
+    <color name="chglib_material_background_default_divider_color">#1f000000</color>
+    <color name="colorAccent">@android:color/holo_blue_bright</color>
+    <color name="colorPrimary">@android:color/holo_blue_bright</color>
+    <color name="colorPrimaryDark">@android:color/holo_green_dark</color>
+    <color name="darkColorAccent">@android:color/holo_blue_bright</color>
+    <color name="darkColorPrimary">@android:color/holo_blue_bright</color>
+    <color name="darkColorPrimaryDark">@android:color/holo_green_dark</color>
+    <color name="design_snackbar_background_color">@android:color/holo_blue_light</color>
+    <color name="updateAtten">#ffff8800</color>
+    <color name="updateunkown_red">#ffb80000</color>
+    <color name="uptodate_green">#ff00ae00</color>
+</resources>
