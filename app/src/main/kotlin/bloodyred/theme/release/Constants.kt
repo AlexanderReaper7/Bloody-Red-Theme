@@ -1,6 +1,6 @@
-package substratum.theme.template
+package bloodyred.theme.release
 
-import substratum.theme.template.BuildConfig.SUPPORTS_THIRD_PARTY_THEME_SYSTEMS
+import bloodyred.theme.release.BuildConfig.SUPPORTS_THIRD_PARTY_THEME_SYSTEMS
 
 object Constants {
     // Theme ready Google apps checker

@@ -1,4 +1,4 @@
-package substratum.theme.template
+package bloodyred.theme.release
 
 import android.annotation.SuppressLint
 import android.app.Activity
@@ -9,10 +9,10 @@ import android.content.pm.Signature
 import android.net.Uri
 import android.os.RemoteException
 import android.widget.Toast
-import substratum.theme.template.Constants.BLACKLISTED_APPLICATIONS
-import substratum.theme.template.Constants.ENABLE_KNOWN_THIRD_PARTY_THEME_MANAGERS
-import substratum.theme.template.Constants.MINIMUM_SUBSTRATUM_VERSION
-import substratum.theme.template.Constants.OTHER_THEME_SYSTEMS
+import bloodyred.theme.release.Constants.BLACKLISTED_APPLICATIONS
+import bloodyred.theme.release.Constants.ENABLE_KNOWN_THIRD_PARTY_THEME_MANAGERS
+import bloodyred.theme.release.Constants.MINIMUM_SUBSTRATUM_VERSION
+import bloodyred.theme.release.Constants.OTHER_THEME_SYSTEMS
 
 
 @Suppress("ConstantConditionIf") // This needs to be defined by the themer, so suppress!
