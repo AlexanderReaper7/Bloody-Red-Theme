@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <color name="rambar_left_color">@android:color/holo_blue_bright</color>
-    <color name="rambar_middle_color">@android:color/holo_blue_bright</color>
-    <color name="default_drag_handle_color">@android:color/holo_blue_bright</color>
-    <color name="colorAccent">@android:color/holo_blue_bright</color>
-    <color name="colorPrimary">@android:color/holo_blue_light</color>
-    <color name="colorPrimaryDark">@android:color/holo_blue_dark</color>
-</resources>

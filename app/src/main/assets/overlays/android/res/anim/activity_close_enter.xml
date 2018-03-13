@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<set android:zAdjustment="normal"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <translate android:interpolator="@*android:interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_0" android:duration="400" android:fillBefore="true" android:fillAfter="true" android:fromXDelta="-7.0000052%" android:toXDelta="0.0%" android:fillEnabled="true" />
-</set>

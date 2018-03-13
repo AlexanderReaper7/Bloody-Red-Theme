@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="signal_primary_dark">#ffb80000</color>
-    <color name="signal_primary">#ffb80000</color>
-    <color name="signal_primary_alpha33">#55b80000</color>
-    <color name="signal_primary_alpha_focus">#88b80000</color>
-    <color name="green_500">#ffb80000</color>
-    <color name="highlighted_text_material_dark">#66b80000</color>
-    <color name="material_deep_teal_200">#ffbb0000</color>
-    <color name="material_deep_teal_500">#ffb80000</color>
-    <color name="teal_300">#ffbb0000</color>
-    <color name="red_700">#ffb80000</color>
-    <color name="purple_400">#ffb80000</color>
-    <color name="orange_400">#ffb80000</color>
-    <color name="red_400">#ffb80000</color>
-    <color name="blue_400">#ffb80000</color>
-    <color name="green_400">#ffb80000</color>
-    <color name="blue_grey_400">#ffb80000</color>
-    <color name="cyan_400">#ffb80000</color>
-    <color name="conversation_list_item_background_read_dark">#ff212121</color>
-    <color name="black">#ff212121</color>
-    <color name="dark_action_bar">#ff303030</color>
-    <color name="gray95">#ff303030</color>
+    <color name="signal_primary_dark">#ff009688</color>
+    <color name="signal_primary">#ff009688</color>
+    <color name="signal_primary_alpha33">#55009688</color>
+    <color name="signal_primary_alpha_focus">#88009688</color>
+    <color name="green_500">#ff009688</color>
+    <color name="highlighted_text_material_dark">#66009688</color>
+    <color name="material_deep_teal_200">#ff009688</color>
+    <color name="material_deep_teal_500">#ff009688</color>
+    <color name="teal_300">#ff009688</color>
+    <color name="red_700">#ff009688</color>
+    <color name="purple_400">#ff009688</color>
+    <color name="orange_400">#ff009688</color>
+    <color name="red_400">#ff009688</color>
+    <color name="blue_400">#ff009688</color>
+    <color name="green_400">#ff009688</color>
+    <color name="blue_grey_400">#ff009688</color>
+    <color name="cyan_400">#ff009688</color>
+    <color name="conversation_list_item_background_read_dark">#ff000000</color>
+    <color name="black">#ff000000</color>
+    <color name="dark_action_bar">#ff000000</color>
+    <color name="gray95">#ff000000</color>
     <color name="gray10">#ffffffff</color>
 </resources>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <style name="NotificationText" parent="@android:style/TextAppearance.Material.Notification">
-        <item name="android:textColor">#ffaaaaaa</item>
-    </style>
-    <style name="NotificationTitle" parent="@android:style/TextAppearance.Material.Notification.Title">
-        <item name="android:textColor">#ffffffff</item>
-    </style>
-</resources>

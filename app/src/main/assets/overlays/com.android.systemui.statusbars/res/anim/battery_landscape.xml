@@ -1,3 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<objectAnimator android:interpolator="@android:interpolator/linear" android:valueFrom="M 3.2 8.1 H 3.4 V 15.8 H 3.2 V 8.1 Z" android:valueTo="M 3.3 8.1 H 19.2 V 15.8 H 3.3 V 8.1 Z" android:valueType="pathType" android:propertyName="pathData"
-  xmlns:android="http://schemas.android.com/apk/res/android" />

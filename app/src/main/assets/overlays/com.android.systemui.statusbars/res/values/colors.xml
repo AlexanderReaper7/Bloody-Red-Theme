@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <color name="batterymeter_frame_color">#80ffffff</color>
-    <color name="batterymeter_charge_color">#ffffffff</color>
-    <color name="batterymeter_bolt_color">#ffffffff</color>
-    <!-- <color name="qs_batterymeter_frame_color">#80ffffff</color> -->
-</resources>
